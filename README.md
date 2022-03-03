@@ -5,7 +5,7 @@ To begin with, you can call me by my nickname Kevin by the way 😁 At the momen
 ## Statistics
 
 <a href="https://github.com/nguyenfamj?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenfamj&hide=contribs&show_icons=true&theme=aura_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenfamj&hide=contribs&show_icons=true&theme=aura_dark&include_all_commits=true&custom_title=My Github Stats" />
 </a>
 <a href="https://github.com/nguyenfamj?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenfamj&layout=compact&hide=php&langs_count=8&theme=aura_dark" />
