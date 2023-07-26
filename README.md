@@ -1,20 +1,6 @@
 
 ## Hello, [@nguyenfamj](https://github.com/nguyenfamj) is here!
-It'll be much easier if you call me Kevin, and I prefer that way too. To begin with, I am an enthusiastic, ambitious entry-level front-end developer, on the way to land a first job. I have spent a huge amount of time learning programming in web development, and it is totally worth it! Coding makes my life more interesting, as well as challenging. That's why I always set future goals for myself, so that I can keep moving and overcome my limitation.
-
-![](https://www.worldbook.com/images/WBBlog_KidsCoding.jpg)
-
-## Statistics
-<a href="https://github.com/nguyenfamj?tab=repositories">
-  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nguyenfamj?cardType=github&theme=onedark" />
-</a>
-
-<br>
-
-<a href="https://github.com/nguyenfamj?tab=repositories">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenfamj&theme=onedark_duo" />
-</a>
-
+It'll be much easier if you call me Kevin, and I prefer that way too. I have spent a huge amount of time learning programming in web development, and it is totally worth it! Coding makes my life more interesting, as well as challenging. That's why I always set future goals for myself so that I can keep moving and overcome my limitation.
 
 ##
 <h3 align="left">Technologies and Tools:</h3>
